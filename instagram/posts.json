@@ -1,0 +1,9 @@
+[
+  {
+    "id": "sample-001",
+    "scheduled_at": "2026-12-01T12:00:00+09:00",
+    "image": "instagram/images/sample.jpg",
+    "caption": "サンプル投稿です。\n\n#中目黒 #ブラジリアンワックス",
+    "status": "draft"
+  }
+]
