@@ -1,9 +1,9 @@
 [
   {
-    "id": "sample-001",
-    "scheduled_at": "2026-12-01T12:00:00+09:00",
-    "image": "instagram/images/sample.jpg",
-    "caption": "サンプル投稿です。\n\n#中目黒 #ブラジリアンワックス",
+    "id": "niitakado-01",
+    "scheduled_at": "2026-11-01T18:00:00+09:00",
+    "image": "instagram/images/niitakado-01.jpg",
+    "caption": "カフェ 新高堂(中目黒)\n\n当店オリジナルのかぼちゃのチーズケーキ。\nワンピース(1カット)750円。\n\n#中目黒 #中目黒カフェ #カフェ新高堂 #かぼちゃのチーズケーキ",
     "status": "draft"
   }
 ]
